@@ -45,6 +45,7 @@ const pathPrefix = process.env.GITHUB_ACTIONS
       output: 'public',
       layouts: '_layouts',
       includes: '_components'
-    }
+    },
+    pathPrefix
   }
 }
