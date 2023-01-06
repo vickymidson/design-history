@@ -15,11 +15,9 @@
   ]
 */
 const paths = [
-  { title: 'Start page', path: '/' },
-  { title: 'How many balls can you juggle?', path: '/juggling-balls' },
-  { title: 'Whats your most impressive trick?', path: '/juggling-trick' },
-  { title: 'Check your answers', path: '/check-answers' },
-  { title: 'Confirmation', path: '/confirmation' }
+  { title: 'How many balls can you juggle', path: '/juggling-balls' },
+  { title: 'Whats your most impressive trick', path: '/juggling-trick' }
+
 ]
 const { DateTime } = require('luxon')
 const domain = 'http://localhost:3000'

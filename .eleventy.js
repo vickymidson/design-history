@@ -16,7 +16,7 @@ module.exports = function (eleventyConfig) {
     },
     footer: {
       contentLicence: {
-        html: 'An unofficial community project for circus professionals. <a class="govuk-footer__link" href="">GitHub source</a>.'
+        html: 'A service for circus professionals. <a class="govuk-footer__link" href="">GitHub source</a>.'
       },
       copyright: {
         text: '© X-GOVUK'
