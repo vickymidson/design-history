@@ -35,8 +35,20 @@
     "dateString": "5 January 2020",    "templateContent": "when designing building service can easy forget why previous decisions were made even more new people join team others leave design history help by creating permanent record site like blog with posts describing development features iterations existing ones findings from user research anything that may useful return later this project developed becoming teacher department education who found keeping they could: re evaluate see how feature changed over time things tested give context members demonstrate reasons certain did work create snapshots looked significant milestones share across government everything assessors february 2020 includes than 200 documenting 5 different services learn about created their dfe digital",
     "url": "/what-is-a-design-history/"
   },  {
+    "title": "Snapshot of apply for a juggling licence service",
+"description": "We’ve taken a snapshot of the entire end-to-end service that was deployed on 3 January 2023.","section": "Home",    "layout": "post",
+"date": "2023-01-03T00:00:00.000Z",
+    "dateString": "3 January 2023",    "templateContent": "taken snapshot entire end service that deployed 3 january 2023 something important about this only circus professionals who: need juggle legally dangerous juggling without licence have skills users must trained extensively before applying understand can apply their using our",
+    "url": "/service-snapshot/"
+  },  {
+    "title": "Telling users they are not eligible",
+"description": "How we're making sure only circus professionals can apply for a juggling licence.","section": "Home",    "layout": "post",
+"date": "2023-01-05T00:00:00.000Z",
+    "dateString": "5 January 2023",    "templateContent": "users that are extensively trained circus professionals cannot use our service issue many juggling licence applications made by leading rejections despite information start page explaining who can apply non still applying what did have introduced kick out after asking how balls their answer less than three user goes tells them they eligible initial results tested ineligible journey with found most had difficulty this understood happened application research findings usability testing next steps will go into development coming sprints",
+    "url": "/telling-users-they-are-not-eligible/"
+  },  {
     "title": "Apply for a juggling licence design history",
-"description": "Document and share design decisions. Create a permanent record of how your service has developed over time.",    "layout": "home",
+"description": "A service for circus professionals to submit an application to get a juggling licence.",    "layout": "home",
     "templateContent": "",
     "url": "/"
   }]
