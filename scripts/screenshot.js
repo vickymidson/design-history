@@ -15,9 +15,7 @@
   ]
 */
 const paths = [
-  { title: 'How many balls can you juggle', path: '/juggling-balls' },
-  { title: 'Whats your most impressive trick', path: '/juggling-trick' }
-
+  { title: 'Ineligible', path: '/ineligible' }
 ]
 const { DateTime } = require('luxon')
 const domain = 'http://localhost:3000'
