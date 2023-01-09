@@ -1,7 +1,7 @@
 ---
 homepage: true
 layout: home
-title: "Apply for a juggling licence design history"
+title: "Design history for the apply for a juggling licence service"
 description: "A service for circus professionals to submit an application to get a juggling licence."
 pagination:
   data: collections.post
@@ -12,7 +12,7 @@ posts:
 aside:
   title: Related links
   content: |
-    [Prototype](#)
+    [Prototype](http://localhost:3000/start)
     
     Username:
     Password:
