@@ -15,6 +15,11 @@
   ]
 */
 const paths = [
+  { title: 'Start page', path: '/start' },
+  { title: 'How many balls can you juggle', path: '/juggling-balls' },
+  { title: 'Whats your most impressive trick', path: '/juggling-trick' },
+  { title: 'Check your answers', path: '/check-answers' },
+  { title: 'Confirmation', path: '/confirmation' },
   { title: 'Ineligible', path: '/ineligible' }
 ]
 const { DateTime } = require('luxon')
